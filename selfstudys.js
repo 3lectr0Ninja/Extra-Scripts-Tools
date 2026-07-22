@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         Free PDF Opener
-// @namespace    https://github.com/3lectr0Ninja
-// @version      1
-// @description  Get PDF free without signing in
-// @author       3lectr0N!nj@
-// @match        https://www.selfstudys.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=selfstudys.com
-// @grant        none
-// ==/UserScript==
 const opened = false
 const proto = XMLHttpRequest.prototype;
 
